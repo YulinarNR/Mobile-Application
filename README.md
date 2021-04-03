@@ -1,2 +1,2 @@
 # Mobile-Application
-Berisikan beragam applikasi mobile (android)
+Berisikan beragam aplikasi mobile (android)
